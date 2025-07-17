@@ -40,7 +40,7 @@ AttendanceSystem.java
 
 ---
 
-👩‍💻 Developed By
-👩‍💻 Khushbu Jamliya
+## Developed By
+ Khushbu Jamliya
 🔗 LinkedIn
 

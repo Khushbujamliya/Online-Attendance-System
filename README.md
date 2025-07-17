@@ -28,11 +28,6 @@ AttendanceSystem/
 ├── attendance.txt            # Output file with attendance table
 └── accounts.txt              # File storing teacher account credentials
 
-## Sample Table Output
-Serial No   Roll No   Name          2025-07-01   2025-07-02   2025-07-03
-1           Z1        RAM           P            A            P
-2           Z2        LAKSHMAN      A            P            P
-3           Z3        BHARAT        P            A            A
 
 ---
 
